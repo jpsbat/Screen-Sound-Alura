@@ -1,0 +1,15 @@
+C:\Users\João Pedro\Documents\dkp\bin\Debug\net7.0\dkp.exe
+C:\Users\João Pedro\Documents\dkp\bin\Debug\net7.0\dkp.deps.json
+C:\Users\João Pedro\Documents\dkp\bin\Debug\net7.0\dkp.runtimeconfig.json
+C:\Users\João Pedro\Documents\dkp\bin\Debug\net7.0\dkp.dll
+C:\Users\João Pedro\Documents\dkp\bin\Debug\net7.0\dkp.pdb
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.csproj.AssemblyReference.cache
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.AssemblyInfoInputs.cache
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.AssemblyInfo.cs
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.csproj.CoreCompileInputs.cache
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.dll
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\refint\dkp.dll
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.pdb
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\dkp.genruntimeconfig.cache
+C:\Users\João Pedro\Documents\dkp\obj\Debug\net7.0\ref\dkp.dll
